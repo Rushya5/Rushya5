@@ -306,7 +306,7 @@ If you like my work, consider showing some support:
 
 <img src="https://raw.githubusercontent.com/Rushya5/Rushya5/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%"/>
 
-<sub>💡 Generate this automatically using the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action in your profile repo.</sub>
+
 
 </div>
 
