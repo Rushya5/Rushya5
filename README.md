@@ -4,7 +4,7 @@
 <div align="center">
 
 <img
-  src=".Icon.png"
+  src="Icon.png"
   width="100%"
   alt="Rushya Shrungan - AI Engineer"
 />
