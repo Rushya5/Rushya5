@@ -3,15 +3,18 @@
 <!-- ANIMATED HERO HEADER -->
 <div align="center">
 
-<a href="https://github.com/Rushya5">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0f172a,60:172554,100:0ea5e9&height=280&section=header&text=Hi%20There!%20I'm%20Rushya%20👋&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20GenAI%20Builder&descAlignY=58&descSize=18&stroke=38bdf8&strokeWidth=1" width="100%"/>
-
-</a>
+<img
+  src="./assets/hero-banner.png"
+  width="100%"
+  alt="Rushya Shrungan - AI Engineer"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Final+Year+AI+Engineering+Student+🤖;Building+Machine+Learning+%26+Deep+Learning+Systems;Exploring+LLMs+%26+Generative+AI+🧠;Computer+Vision+%26+Robotics+Enthusiast;Full+Stack+AI+Developer+💻;Turning+Ideas+Into+Real+Products+🚀" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Final+Year+AI+Engineering+Student+🤖;Building+Machine+Learning+%26+Deep+Learning+Systems;Exploring+LLMs+%26+Generative+AI+🧠;Exploring+LLMs+%26+Generative+AI+🧠;Computer+Vision+%26+Robotics+Enthusiast;Full+Stack+AI+Developer+💻;Turning+Ideas+Into+Real+Products+🚀"
+  alt="Typing SVG"
+/>
 
 </div>
 
