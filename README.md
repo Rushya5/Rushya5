@@ -11,10 +11,11 @@
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Final+Year+AI+Engineering+Student+🤖;Building+Machine+Learning+%26+Deep+Learning+Systems;Exploring+LLMs+%26+Generative+AI+🧠;Exploring+LLMs+%26+Generative+AI+🧠;Computer+Vision+%26+Robotics+Enthusiast;Full+Stack+AI+Developer+💻;Turning+Ideas+Into+Real+Products+🚀"
-  alt="Typing SVG"
-/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Final+Year+AI+Engineering+Student+%F0%9F%A4%96;Building+with+Machine+Learning+%26+Deep+Learning;Exploring+LLMs+%26+Generative+AI+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
+
+
 
 </div>
 
