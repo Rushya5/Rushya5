@@ -1,11 +1,18 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There!%20I'm%20Rushya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20ML%20Developer%20|%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<!-- IRON MAN ANIMATED HERO -->
+<img
+  src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif"
+  width="100%"
+  alt="Iron Man Animated Background"
+/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Final+Year+AI+Engineering+Student+%F0%9F%A4%96;Building+with+Machine+Learning+%26+Deep+Learning;Exploring+LLMs+%26+Generative+AI+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+<h1>Hi There! I'm Rushya 👋</h1>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Developer;Building+with+Machine+Learning+%26+Deep+Learning;Exploring+LLMs+%26+Generative+AI+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Full+Stack+AI+Developer+%F0%9F%92%BB;Building+the+Future+with+AI+%F0%9F%9A%80"
+  alt="Typing SVG"
+/>
 
 </div>
 
