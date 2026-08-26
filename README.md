@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- IRON MAN ANIMATED HERO -->
-<img
-  src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif"
-  width="100%"
-  alt="Iron Man Animated Background"
-/>
+<!-- ANIMATED HERO HEADER -->
+<div align="center">
 
-<h1>Hi There! I'm Rushya 👋</h1>
+<a href="https://github.com/Rushya5">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Developer;Building+with+Machine+Learning+%26+Deep+Learning;Exploring+LLMs+%26+Generative+AI+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Full+Stack+AI+Developer+%F0%9F%92%BB;Building+the+Future+with+AI+%F0%9F%9A%80"
-  alt="Typing SVG"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0f172a,60:172554,100:0ea5e9&height=280&section=header&text=Hi%20There!%20I'm%20Rushya%20👋&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20GenAI%20Builder&descAlignY=58&descSize=18&stroke=38bdf8&strokeWidth=1" width="100%"/>
+
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Final+Year+AI+Engineering+Student+🤖;Building+Machine+Learning+%26+Deep+Learning+Systems;Exploring+LLMs+%26+Generative+AI+🧠;Computer+Vision+%26+Robotics+Enthusiast;Full+Stack+AI+Developer+💻;Turning+Ideas+Into+Real+Products+🚀" />
 
 </div>
 
